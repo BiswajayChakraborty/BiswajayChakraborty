@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswajay Chakraborty</h1>
-<h3 align="center">Cyber Security Engineer | Python Developer | CTF Player</h3>
+<h3 align="center">Web Development | Devops | App Devlopments</h3>
 <img align="right" alt="Cat" width="390" src="https://wallpapercave.com/uwp/uwp757693.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajaychakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="biswajaychakraborty" /> </p>

@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajaychakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="biswajaychakraborty" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **CTF, Python Projects, Cyber Security**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **biswajay8000@gmail.com**
 

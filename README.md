@@ -1,81 +1,163 @@
 <div align="center">
 
-# Hey, I'm Biswajay Chakraborty 👋
+# 👋 Hi, I'm **Biswajay Chakraborty**
 
-### Aspiring Full-Stack Developer · React Learner · Open-Source Explorer
-
-Building useful things, learning in public, and getting better with every commit.
+### 🚀 Aspiring Full-Stack Developer · Open Source Explorer · Problem Solver
 
 <p>
-  <a href="https://github.com/biswajaychakraborty">
-    <img src="https://komarev.com/ghpvc/?username=biswajaychakraborty&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/biswajaychakraborty?tab=followers">
-    <img src="https://img.shields.io/github/followers/biswajaychakraborty?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=biswajaychakraborty&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/biswajaychakraborty?label=Followers&style=for-the-badge&color=181717&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/biswajaychakraborty?label=Stars&style=for-the-badge&color=f5c518&logo=github" alt="Stars" />
 </p>
 
-[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:biswajay8000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/biswajay/)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=biswajaychakraborty&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+</a>
 
 </div>
 
 ---
 
-## 🧭 About Me
+## 🧑‍💻 About Me
 
-- 🌱 Currently learning **backend development** and strengthening my React skills.
-- 🛠️ I enjoy turning ideas into small, practical projects.
-- 🧩 Practicing problem-solving with **JavaScript and LeetCode**.
-- 🌍 Interested in contributing to **open source** and learning from developer communities.
-- 🎯 Goal: grow into a confident **full-stack developer**.
+```javascript
+const biswajay = {
+    name: "Biswajay Chakraborty",
+    role: "Aspiring Full-Stack Developer",
+    currentlyLearning: ["Backend Development", "React", "JavaScript"],
+    interests: ["Full-Stack Development", "Open Source", "Problem Solving"],
+    mindset: "Build → Learn → Improve → Repeat 🚀"
+};
+```
+
+- 🌱 Currently learning **Backend Development**
+- ⚛️ Building with **React & JavaScript**
+- 🛠️ Exploring **Full-Stack Development**
+- 🌍 Interested in **Open Source**
+- 💬 Ask me about **Full-Stack Development**
+- 📫 **[biswajay8000@gmail.com](mailto:biswajay8000@gmail.com)**
 
 ---
 
-## 🧰 Tech Stack
+## 🌐 Connect With Me
 
-> Tools and technologies I'm learning or exploring.
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,mysql,postgres,git,github,linux,postman,vscode&perline=8" alt="Tech stack icons" />
+<a href="https://twitter.com/@biswajay" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://linkedin.com/in/biswajay%20chakraborty" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.leetcode.com/biswajay" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="mailto:biswajay8000@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,typescript" alt="Frontend" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Backend and Databases" />
+</p>
+
+### ☁️ DevOps, Tools & Systems
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,postman" alt="DevOps and Tools" />
+</p>
+
+### 🐍 Programming & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Programming Languages" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools" />
 </p>
 
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=biswajaychakraborty&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajaychakraborty&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=biswajaychakraborty&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=biswajaychakraborty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajaychakraborty&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
 
-## 🏆 Achievements
+<br><br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biswajaychakraborty&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
+<img src="https://streak-stats.demolab.com?user=biswajaychakraborty&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📈 Contribution Activity
 
-I'm always happy to learn from other developers, discuss projects, and explore opportunities to contribute to open source.
+<div align="center">
 
-- 📧 **Email:** [biswajay8000@gmail.com](mailto:biswajay8000@gmail.com)
-- 🐙 **GitHub:** [@biswajaychakraborty](https://github.com/biswajaychakraborty)
-- 🧠 **LeetCode:** [biswajay](https://leetcode.com/biswajay/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswajaychakraborty&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/biswajaychakraborty/biswajaychakraborty/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+> 💡 The contribution snake requires a GitHub Action in your profile repository to generate the SVG.
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Focus | Status |
+|:---:|:---:|
+| ⚛️ React | 🟢 Learning |
+| 🟨 JavaScript | 🟢 Learning |
+| ⚙️ Backend Development | 🔥 Current Focus |
+| 🌐 Full-Stack Development | 🚀 Building |
+| 🌍 Open Source | 🔭 Exploring |
+
+</div>
+
+---
+
+## 💡 Developer Philosophy
+
+<div align="center">
+
+> **"Don't just learn the technology. Build something with it."**
+
+### Learn → Build → Break → Debug → Improve → Repeat ♻️
+
+</div>
 
 ---
 
 <div align="center">
 
-*“Consistency beats intensity. Keep building.”* ✨
+### ⭐ If you find my projects useful, consider giving them a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer" />
 
 </div>

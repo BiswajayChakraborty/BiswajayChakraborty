@@ -5,14 +5,9 @@
 ### 🚀 Aspiring Full-Stack Developer · Open Source Explorer · Problem Solver
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=biswajaychakraborty&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/biswajaychakraborty?label=Followers&style=for-the-badge&color=181717&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/biswajaychakraborty?label=Stars&style=for-the-badge&color=f5c518&logo=github" alt="Stars" />
 </p>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=biswajaychakraborty&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-</a>
 
 </div>
 
@@ -104,21 +99,31 @@ const biswajay = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswajaychakraborty&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/biswajaychakraborty/biswajaychakraborty/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:           A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake:       Color of the snake
+    #  - color_dots:        Coma separated list of dots color.
+    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                       Exactly 5 colors are expected.
+    #  - color_background:  Color of the background (for gif only)
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 </div>
 
